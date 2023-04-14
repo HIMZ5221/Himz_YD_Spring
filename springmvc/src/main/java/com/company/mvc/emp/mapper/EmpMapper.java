@@ -3,6 +3,7 @@ package com.company.mvc.emp.mapper;
 import java.util.List;
 import java.util.Map;
 
+import com.company.mvc.emp.DeptVO;
 import com.company.mvc.emp.EmpVO;
 
 

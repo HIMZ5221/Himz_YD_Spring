@@ -1,8 +1,7 @@
-package com.company.mvc.emp.mapper;
+package com.company.mvc.emp;
 
 import java.util.List;
 
-import com.company.mvc.emp.EmpVO;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonProperty;
 

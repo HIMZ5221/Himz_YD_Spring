@@ -2,7 +2,7 @@ package com.company.mvc;
 
 import org.junit.Test;
 
-import com.company.mvc.emp.mapper.DeptVO;
+import com.company.mvc.emp.DeptVO;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.JsonMappingException;
 import com.fasterxml.jackson.databind.ObjectMapper;

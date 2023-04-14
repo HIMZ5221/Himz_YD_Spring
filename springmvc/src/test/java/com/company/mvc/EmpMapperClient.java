@@ -10,8 +10,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
+import com.company.mvc.emp.DeptVO;
 import com.company.mvc.emp.EmpVO;
-import com.company.mvc.emp.mapper.DeptVO;
 import com.company.mvc.emp.mapper.EmpDAO;
 import com.company.mvc.emp.mapper.EmpMapper;
 
